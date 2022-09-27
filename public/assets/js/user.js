@@ -4,7 +4,7 @@ $("#user-login-form").submit(function (e) {
     let pass = $('#password').val();
     Toast.fire({
         icon: 'success',
-        title: 'Lorem ipsum dolor sit amet, consetetur sadipscing elitr.'
+        title: 'Lorem ipsum dolor sit amet, consetetur sadipscing elitr.',
     })
     // if (!email) {
     //     alert("please enter email");
